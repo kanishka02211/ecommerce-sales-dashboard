@@ -1,16 +1,16 @@
-#  Global E-Commerce Sales Dashboard
+# * Global E-Commerce Sales Dashboard
 
 Built using **Power BI** and the Sample Superstore dataset as part of my data analytics learning journey.
 
 ---
 
-##  Dashboard Overview
+## * Dashboard Overview
 
 An interactive sales dashboard that helps analyze e-commerce performance across categories, regions, and time periods — with slicers for dynamic filtering.
 
 ---
 
-##  Key Insights
+##  * Key Insights
 
 -  **Total Sales:** 2.30M
 -  **Total Profit:** 286.40K
@@ -21,7 +21,7 @@ An interactive sales dashboard that helps analyze e-commerce performance across 
 
 ---
 
-##  Visuals Included
+##  * Visuals Included
 
 | Visual | Description |
 |--------|-------------|
@@ -34,7 +34,7 @@ An interactive sales dashboard that helps analyze e-commerce performance across 
 
 ---
 
-##  Tools Used
+##  * Tools Used
 
 - **Power BI Desktop** — dashboard design & visualization
 - **DAX** — custom measures and calculations
@@ -42,13 +42,13 @@ An interactive sales dashboard that helps analyze e-commerce performance across 
 
 ---
 
-##  About Me
+##  * About Me
 
 I'm Kanishka Verma, a first-year Software Development student at Ramanujan College, University of Delhi. This is one of my first data visualization projects — built to develop hands-on skills in Power BI and data analytics.
 
 ---
 
-##  Contact
+##  * Contact
 
 -  kanishka0222@gmail.com
--  1st Prize — No-Code Hackathon (Intra-college)
+
